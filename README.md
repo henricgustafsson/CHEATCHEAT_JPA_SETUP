@@ -33,7 +33,7 @@ pg_ctl -D "{Drive on computer}:\Program Files\PostgreSQL\{version}\data" start
 
 {your_project_folder}/src/main/resources/application.proprerties:
 
------------------- ##POSTGRESQL -------------------------------------
+------------------ POSTGRESQL -------------------------------------
 
 
 # Web Server settings
