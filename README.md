@@ -10,7 +10,7 @@ Open CMD. Navigate to bin:
 Local server started!
 
 
-#open pgAdmin => http://127.0.0.1:51711/browser/
+open pgAdmin => http://127.0.0.1:51711/browser/
 
 	##General
 	Servers=>create=>server
