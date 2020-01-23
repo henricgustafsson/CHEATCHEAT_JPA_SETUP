@@ -1,9 +1,13 @@
 # CHEATCHEAT_JPA_SETUP
 
-##Open CMD. Navigate to bin:
-	{Drive on computer}\Program Files\PostgreSQL\{version}\bin"
-	pg_ctl -D "{Drive on computer}:\Program Files\PostgreSQL\{version}\data" start
-##Local server started!
+
+
+Open CMD. Navigate to bin:
+
+	# {Drive on computer}\Program Files\PostgreSQL\{version}\bin"
+	# pg_ctl -D "{Drive on computer}:\Program Files\PostgreSQL\{version}\data" start
+	
+Local server started!
 
 
 #open pgAdmin => http://127.0.0.1:51711/browser/
