@@ -4,8 +4,8 @@
 
 Open CMD. Navigate to bin:
 
-	# {Drive on computer}\Program Files\PostgreSQL\{version}\bin"
-	# pg_ctl -D "{Drive on computer}:\Program Files\PostgreSQL\{version}\data" start
+	{Drive on computer}\Program Files\PostgreSQL\{version}\bin"
+	pg_ctl -D "{Drive on computer}:\Program Files\PostgreSQL\{version}\data" start
 	
 Local server started!
 
