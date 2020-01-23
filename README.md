@@ -117,7 +117,8 @@ pg_ctl -D "{Drive on computer}:\Program Files\PostgreSQL\{version}\data" start
 
 
 
------------------------------ #H2 ----------------------------------
+----------------------------- H2 ----------------------------------
+
 	# H2
 	spring.h2.console.enabled=true
 	spring.h2.console.path=/h2Console
